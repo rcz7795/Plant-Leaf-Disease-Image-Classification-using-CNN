@@ -1,4 +1,4 @@
-# Plant-Leaf-Disease-Classification-using-CNN
+# Plant-Leaf-Disease-Image-Classification-using-CNN
 
 ![CV](https://img.shields.io/badge/CV-Image_Classification-blue.svg) 
 
