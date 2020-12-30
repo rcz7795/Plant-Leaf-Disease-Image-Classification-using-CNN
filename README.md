@@ -37,7 +37,7 @@ The results from Classical ML Models are as below:
 ![test](Snips/2.JPG)
 
 
-## Conclusion :
+## Conclusions :
 
 In this project we used various pre-trained model for the development of an app for the identification of various plant leaf disease, and we achieved our best results with the application of a transfer learning model. We achieved an validation accuracy of 75% in our tests using XceptionNet Model. 
 
